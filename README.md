@@ -1,8 +1,8 @@
 ### Приветствую    //    Greeting 👋
 
 
-#### 💻 Фронтенд веб-разработчик    //    Frontend web developer
+#### 💻 Фронтенд веб-разработчик   
 
-#### 🛠 Навыки: HTML, JQuery, SCSS, Webpack, Gulp, Wordpress, Flask    //    :capabilitieS
-#### 🌱 Изучаемое настоящий момент: React.js, Python    //    :curently learninG
+#### 🛠 Навыки: HTML, JQuery, SCSS, Webpack, Gulp, Wordpress, Flask  
+#### 🌱 Изучаемое настоящий момент: React.js, Python  
 
