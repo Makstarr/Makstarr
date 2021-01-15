@@ -3,6 +3,6 @@
 
 #### 💻 Фронтенд веб-разработчик   
 
-#### 🛠 Навыки: HTML, JQuery, SASS, SCSS, Webpack, Gulp, Wordpress, Flask  
-#### 🌱 Изучаемое настоящий момент: BEM, React+Redux, Python  
+#### 🛠 Навыки: HTML, JS(ES6), JQuery, SASS(SCSS), Webpack, Gulp, Wordpress, Python(Flask), SQL
+#### 🌱 Изучаемое настоящий момент: React+Redux, Python  
 
