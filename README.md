@@ -1,9 +1,9 @@
 ### Приветствую    //    Greeting 👋
 
 
-## 💻 Фронтенд веб-разработчик (Vue.js, Nuxt.js) 
+## 💻 Фронтенд веб-разработчик (Vue.js, Nuxt.js, React.js) 
 ### Не ищу работу
 
-#### 🛠 Навыки: Vue.js, Nuxt.js, Buefy, HTML, JS(ES6 тоже), JQuery, SASS/SCSS,  Webpack, Gulp, Wordpress, Python(Flask), SQL
-#### 🌱 Изучаемое настоящий момент: Vue+Vuex+Nuxt, Python
+#### 🛠 Навыки: Vue, Nuxt, Buefy, Vuetify, HTML, JS(ES6 тоже), JQuery, SASS/SCSS,  Webpack, Gulp, Wordpress, Python(Flask), SQL
+#### 🌱 Изучаемое настоящий момент: Vue+Vuex+Nuxt, React, Redux, Jest, Styled components + Material UI, ApexChart
 
