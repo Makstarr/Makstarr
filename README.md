@@ -37,7 +37,7 @@ I'm Maksim Tarasov, a passionate full-stack developer with expertise in a wide r
 
 In addition to these, I have experience with Shopify, WordPress, and more.
 
-### 📫 Let's Connect:
+## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/maks-tarasov-b84300233/)
 - [GitHub](https://github.com/Makstarr)
 - Email: maksi112@icloud.com
