@@ -2,12 +2,12 @@
 
 I'm Maksim Tarasov, a passionate full-stack developer with expertise in a wide range of technologies. 
 
-###  🚀 About Me
+##  🚀 About Me
 - 👨‍💻 Full-stack Typescript developer
 - 🎓 Master's in Computer Science
 - 🌍 Based in Berlin, Germany
 
-### 💼 Skills:
+## 💼 Skills:
 
 ### Frontend:
 - TypeScript, React.js, Vue.js, Nuxt.js, Next.js
