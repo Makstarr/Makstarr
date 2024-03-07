@@ -1,5 +1,7 @@
 # Приветствую! Welcome to my GitHub Profile 👋
 
+[CV](https://makstarr.github.io/resume/)
+
 I'm Maksim Tarasov, a passionate full-stack developer with expertise in a wide range of technologies. 
 
 ##  🚀 About Me
