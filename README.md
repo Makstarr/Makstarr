@@ -42,6 +42,6 @@ In addition to these, I have experience with Shopify, WordPress, and more.
 ## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/maks-tarasov-b84300233/)
 - [GitHub](https://github.com/Makstarr)
-- Email: maksi112@icloud.com
+- Email: tarasov.m.d@icloud.com
  
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities! 🚀
