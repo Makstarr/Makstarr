@@ -5,7 +5,7 @@
 I'm Maksim Tarasov, a passionate full-stack developer with expertise in a wide range of technologies. 
 
 ##  🚀 About Me
-- 👨‍💻 Full-stack Typescript developer
+- 👨‍💻 React.js developer at SoSafe - Accounts and Identity management
 - 🎓 Master's in Computer Science
 - 🌍 Based in Berlin, Germany
 
@@ -33,6 +33,7 @@ I'm Maksim Tarasov, a passionate full-stack developer with expertise in a wide r
 
 ### Testing:
 - Jest (for unit testing), React Testing Library
+- Cypress
 
 ### Agile Methodologies:
 - Scrum, Kanban
